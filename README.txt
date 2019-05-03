@@ -1,1 +1,3 @@
-name will  be changed later
+Mozemo u Readme.txt da stavljamo predloge imena.
+- apptracker
+- qualitytracker
