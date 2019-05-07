@@ -1,4 +1,4 @@
-Mozemo u Readme.txt da stavljamo predloge imena.
+Mozemo ovde da stavljamo predloge imena.
 - apptracker
 - qualitytracker
 - mytrackinggroup
